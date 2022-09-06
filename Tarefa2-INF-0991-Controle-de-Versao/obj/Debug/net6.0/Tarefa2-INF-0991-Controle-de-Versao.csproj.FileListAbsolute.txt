@@ -1,0 +1,15 @@
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\bin\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.exe
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\bin\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.deps.json
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\bin\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.runtimeconfig.json
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\bin\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.dll
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\bin\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.pdb
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.csproj.AssemblyReference.cache
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.AssemblyInfoInputs.cache
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.AssemblyInfo.cs
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.csproj.CoreCompileInputs.cache
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.dll
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\refint\Tarefa2-INF-0991-Controle-de-Versao.dll
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.pdb
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\Tarefa2-INF-0991-Controle-de-Versao.genruntimeconfig.cache
+C:\Users\Juliana\Development\CursoMicrosoft\INF-0991\Tarefa2-INF-0991-Controle-de-Versao\Tarefa2-INF-0991-Controle-de-Versao\obj\Debug\net6.0\ref\Tarefa2-INF-0991-Controle-de-Versao.dll
